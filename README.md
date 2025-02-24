@@ -24,8 +24,9 @@ This repository contains a template for a user service that can be used in vario
    ```
 
 ## Technologies
-- Node.js
+- Docker
 - Express.js
+- Prisma
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
